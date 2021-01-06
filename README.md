@@ -1,4 +1,4 @@
-# brew_depends
+# brew_dependency
 an application for showing  dependency of apps installed by brew
 
 #### Why should I write this?
